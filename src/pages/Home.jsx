@@ -13,7 +13,7 @@ const home = () => {
       <div className='common-css-slider' >
       <MultiCarousal cat_id={0}  />
       </div>
-     
+     {/* test update */}
       <MultiCarousal cat_id={1} />
       {/* <MultiCarousal cat_id={0} /> */}
       <ThirdSlider />
